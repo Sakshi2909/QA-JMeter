@@ -1,0 +1,8 @@
+{
+  "application_data": {
+    "offer": 1
+  },
+  "behavioral_data": {"INITIAL_OFFER_CHOICE":[{"doesnt":"matter"}]},
+  "current_step": "INITIAL_OFFER_CHOICE",
+  "fingerprint_data": {"doesnt":"matter"}
+}
